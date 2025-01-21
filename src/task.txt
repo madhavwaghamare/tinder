@@ -1,0 +1,3 @@
+1. findById
+2. delete api
+3. patch vs put 
